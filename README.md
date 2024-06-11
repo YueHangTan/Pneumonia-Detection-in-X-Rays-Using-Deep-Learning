@@ -1,3 +1,6 @@
+# **Capstone Project**
+## **Project Title: Pneumonia Detection in X-Rays Using Deep Learning**
+
 1. Dataset was downloaded from the following url:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
